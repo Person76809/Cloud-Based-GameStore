@@ -1,6 +1,8 @@
 # Gametrace
 A game-website 
 
+an app store that allows users to download games from the cloud. 
+
 native React application that interacts with the backend API, you'll need to set up a new React project and implement the necessary components. Here's an example of how you can structure your React code: 
 
 First, make sure you have Node.js and npm (Node Package Manager) installed on your machine.
